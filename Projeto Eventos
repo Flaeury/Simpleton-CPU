@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-07-18T18:00:26.630Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36 OPR/100.0.0.0" etag="9DkBCG87Y9bWzWexakeL" version="21.6.2" type="github">
+<mxfile host="app.diagrams.net" modified="2023-07-18T18:10:05.678Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36 OPR/100.0.0.0" etag="0oyM-CE3Q1_Bn_rQbVKC" version="21.6.2" type="github">
   <diagram name="Página-1" id="mi2SJixLZprrFMDK0BBA">
     <mxGraphModel dx="1393" dy="766" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -424,27 +424,27 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="_xmVGxzcEJvAHzw74Etm-157" value="DASHBOARD" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;" vertex="1" parent="1">
-          <mxGeometry x="220" y="900" width="60" height="130" as="geometry" />
+          <mxGeometry x="297" y="890" width="60" height="130" as="geometry" />
         </mxCell>
         <mxCell id="_xmVGxzcEJvAHzw74Etm-163" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;QR-CODE&lt;/font&gt;" style="whiteSpace=wrap;html=1;shape=partialRectangle;top=0;left=0;bottom=1;right=0;points=[[0,1],[1,1]];fillColor=none;align=center;verticalAlign=bottom;routingCenterY=0.5;snapToPoint=1;recursiveResize=0;autosize=1;treeFolding=1;treeMoving=1;newEdgeStyle={&quot;edgeStyle&quot;:&quot;entityRelationEdgeStyle&quot;,&quot;startArrow&quot;:&quot;none&quot;,&quot;endArrow&quot;:&quot;none&quot;,&quot;segment&quot;:10,&quot;curved&quot;:1,&quot;sourcePerimeterSpacing&quot;:0,&quot;targetPerimeterSpacing&quot;:0};" vertex="1" parent="1">
-          <mxGeometry x="350" y="890" width="110" height="30" as="geometry" />
+          <mxGeometry x="427" y="880" width="110" height="30" as="geometry" />
         </mxCell>
         <mxCell id="_xmVGxzcEJvAHzw74Etm-164" value="" style="edgeStyle=entityRelationEdgeStyle;startArrow=none;endArrow=none;segment=10;curved=1;sourcePerimeterSpacing=0;targetPerimeterSpacing=0;rounded=0;" edge="1" parent="1" target="_xmVGxzcEJvAHzw74Etm-163">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="300" y="960" as="sourcePoint" />
+            <mxPoint x="377" y="950" as="sourcePoint" />
             <Array as="points">
-              <mxPoint x="300" y="980" />
+              <mxPoint x="377" y="970" />
             </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="_xmVGxzcEJvAHzw74Etm-168" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;CRUD&lt;/font&gt;" style="whiteSpace=wrap;html=1;shape=partialRectangle;top=0;left=0;bottom=1;right=0;points=[[0,1],[1,1]];fillColor=none;align=center;verticalAlign=bottom;routingCenterY=0.5;snapToPoint=1;recursiveResize=0;autosize=1;treeFolding=1;treeMoving=1;newEdgeStyle={&quot;edgeStyle&quot;:&quot;entityRelationEdgeStyle&quot;,&quot;startArrow&quot;:&quot;none&quot;,&quot;endArrow&quot;:&quot;none&quot;,&quot;segment&quot;:10,&quot;curved&quot;:1,&quot;sourcePerimeterSpacing&quot;:0,&quot;targetPerimeterSpacing&quot;:0};" vertex="1" parent="1">
-          <mxGeometry x="350" y="1000" width="80" height="30" as="geometry" />
+          <mxGeometry x="427" y="990" width="80" height="30" as="geometry" />
         </mxCell>
         <mxCell id="_xmVGxzcEJvAHzw74Etm-169" value="" style="edgeStyle=entityRelationEdgeStyle;startArrow=none;endArrow=none;segment=10;curved=1;sourcePerimeterSpacing=0;targetPerimeterSpacing=0;rounded=0;" edge="1" parent="1" target="_xmVGxzcEJvAHzw74Etm-168">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="300" y="980" as="sourcePoint" />
+            <mxPoint x="377" y="970" as="sourcePoint" />
             <Array as="points">
-              <mxPoint x="304" y="1020" />
+              <mxPoint x="381" y="1010" />
             </Array>
           </mxGeometry>
         </mxCell>
